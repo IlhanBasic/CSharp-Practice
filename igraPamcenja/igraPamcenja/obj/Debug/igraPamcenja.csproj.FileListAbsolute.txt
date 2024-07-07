@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\OOP2-VEZBANJE\igraPamcenja\igraPamcenja\bin\Debug\igraPamcenja.exe.config
+C:\Users\PC\Desktop\OOP2-VEZBANJE\igraPamcenja\igraPamcenja\bin\Debug\igraPamcenja.exe
+C:\Users\PC\Desktop\OOP2-VEZBANJE\igraPamcenja\igraPamcenja\bin\Debug\igraPamcenja.pdb
+C:\Users\PC\Desktop\OOP2-VEZBANJE\igraPamcenja\igraPamcenja\obj\Debug\igraPamcenja.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\OOP2-VEZBANJE\igraPamcenja\igraPamcenja\obj\Debug\MainWindow.g.cs
+C:\Users\PC\Desktop\OOP2-VEZBANJE\igraPamcenja\igraPamcenja\obj\Debug\App.g.cs
+C:\Users\PC\Desktop\OOP2-VEZBANJE\igraPamcenja\igraPamcenja\obj\Debug\igraPamcenja_MarkupCompile.cache
+C:\Users\PC\Desktop\OOP2-VEZBANJE\igraPamcenja\igraPamcenja\obj\Debug\igraPamcenja_MarkupCompile.lref
+C:\Users\PC\Desktop\OOP2-VEZBANJE\igraPamcenja\igraPamcenja\obj\Debug\MainWindow.baml
+C:\Users\PC\Desktop\OOP2-VEZBANJE\igraPamcenja\igraPamcenja\obj\Debug\igraPamcenja.g.resources
+C:\Users\PC\Desktop\OOP2-VEZBANJE\igraPamcenja\igraPamcenja\obj\Debug\igraPamcenja.Properties.Resources.resources
+C:\Users\PC\Desktop\OOP2-VEZBANJE\igraPamcenja\igraPamcenja\obj\Debug\igraPamcenja.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\OOP2-VEZBANJE\igraPamcenja\igraPamcenja\obj\Debug\igraPamcenja.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\OOP2-VEZBANJE\igraPamcenja\igraPamcenja\obj\Debug\igraPamcenja.exe
+C:\Users\PC\Desktop\OOP2-VEZBANJE\igraPamcenja\igraPamcenja\obj\Debug\igraPamcenja.pdb

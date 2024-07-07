@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\OOP2-VEZBANJE\igraJurke\igraJurke\bin\Debug\igraJurke.exe.config
+C:\Users\PC\Desktop\OOP2-VEZBANJE\igraJurke\igraJurke\bin\Debug\igraJurke.exe
+C:\Users\PC\Desktop\OOP2-VEZBANJE\igraJurke\igraJurke\bin\Debug\igraJurke.pdb
+C:\Users\PC\Desktop\OOP2-VEZBANJE\igraJurke\igraJurke\obj\Debug\igraJurke.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\OOP2-VEZBANJE\igraJurke\igraJurke\obj\Debug\MainWindow.g.cs
+C:\Users\PC\Desktop\OOP2-VEZBANJE\igraJurke\igraJurke\obj\Debug\App.g.cs
+C:\Users\PC\Desktop\OOP2-VEZBANJE\igraJurke\igraJurke\obj\Debug\igraJurke_MarkupCompile.cache
+C:\Users\PC\Desktop\OOP2-VEZBANJE\igraJurke\igraJurke\obj\Debug\igraJurke_MarkupCompile.lref
+C:\Users\PC\Desktop\OOP2-VEZBANJE\igraJurke\igraJurke\obj\Debug\MainWindow.baml
+C:\Users\PC\Desktop\OOP2-VEZBANJE\igraJurke\igraJurke\obj\Debug\igraJurke.g.resources
+C:\Users\PC\Desktop\OOP2-VEZBANJE\igraJurke\igraJurke\obj\Debug\igraJurke.Properties.Resources.resources
+C:\Users\PC\Desktop\OOP2-VEZBANJE\igraJurke\igraJurke\obj\Debug\igraJurke.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\OOP2-VEZBANJE\igraJurke\igraJurke\obj\Debug\igraJurke.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\OOP2-VEZBANJE\igraJurke\igraJurke\obj\Debug\igraJurke.exe
+C:\Users\PC\Desktop\OOP2-VEZBANJE\igraJurke\igraJurke\obj\Debug\igraJurke.pdb

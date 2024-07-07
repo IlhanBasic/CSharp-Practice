@@ -1,0 +1,17 @@
+C:\Users\PC\Desktop\OOP2-VEZBANJE\trkaPlivanje\trkaPlivanje\bin\Debug\trkaPlivanje.exe.config
+C:\Users\PC\Desktop\OOP2-VEZBANJE\trkaPlivanje\trkaPlivanje\bin\Debug\trkaPlivanje.exe
+C:\Users\PC\Desktop\OOP2-VEZBANJE\trkaPlivanje\trkaPlivanje\bin\Debug\trkaPlivanje.pdb
+C:\Users\PC\Desktop\OOP2-VEZBANJE\trkaPlivanje\trkaPlivanje\obj\Debug\trkaPlivanje.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\OOP2-VEZBANJE\trkaPlivanje\trkaPlivanje\obj\Debug\bazenTrka.g.cs
+C:\Users\PC\Desktop\OOP2-VEZBANJE\trkaPlivanje\trkaPlivanje\obj\Debug\MainWindow.g.cs
+C:\Users\PC\Desktop\OOP2-VEZBANJE\trkaPlivanje\trkaPlivanje\obj\Debug\App.g.cs
+C:\Users\PC\Desktop\OOP2-VEZBANJE\trkaPlivanje\trkaPlivanje\obj\Debug\trkaPlivanje_MarkupCompile.cache
+C:\Users\PC\Desktop\OOP2-VEZBANJE\trkaPlivanje\trkaPlivanje\obj\Debug\trkaPlivanje_MarkupCompile.lref
+C:\Users\PC\Desktop\OOP2-VEZBANJE\trkaPlivanje\trkaPlivanje\obj\Debug\bazenTrka.baml
+C:\Users\PC\Desktop\OOP2-VEZBANJE\trkaPlivanje\trkaPlivanje\obj\Debug\MainWindow.baml
+C:\Users\PC\Desktop\OOP2-VEZBANJE\trkaPlivanje\trkaPlivanje\obj\Debug\trkaPlivanje.g.resources
+C:\Users\PC\Desktop\OOP2-VEZBANJE\trkaPlivanje\trkaPlivanje\obj\Debug\trkaPlivanje.Properties.Resources.resources
+C:\Users\PC\Desktop\OOP2-VEZBANJE\trkaPlivanje\trkaPlivanje\obj\Debug\trkaPlivanje.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\OOP2-VEZBANJE\trkaPlivanje\trkaPlivanje\obj\Debug\trkaPlivanje.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\OOP2-VEZBANJE\trkaPlivanje\trkaPlivanje\obj\Debug\trkaPlivanje.exe
+C:\Users\PC\Desktop\OOP2-VEZBANJE\trkaPlivanje\trkaPlivanje\obj\Debug\trkaPlivanje.pdb

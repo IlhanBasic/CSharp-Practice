@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\OOP2-VEZBANJE\\igraJurke\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63F99317-2307-4D05-A505-A01FAAE4C5E9}|igraJurke\\igraJurke.csproj|c:\\users\\pc\\desktop\\oop2-vezbanje\\igrajurke\\igrajurke\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63F99317-2307-4D05-A505-A01FAAE4C5E9}|igraJurke\\igraJurke.csproj|solutionrelative:igrajurke\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63F99317-2307-4D05-A505-A01FAAE4C5E9}|igraJurke\\igraJurke.csproj|C:\\Users\\PC\\Desktop\\OOP2-VEZBANJE\\igraJurke\\igraJurke\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{63F99317-2307-4D05-A505-A01FAAE4C5E9}|igraJurke\\igraJurke.csproj|solutionrelative:igraJurke\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\OOP2-VEZBANJE\\igraJurke\\igraJurke\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "igraJurke\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\OOP2-VEZBANJE\\igraJurke\\igraJurke\\MainWindow.xaml.cs",
+              "RelativeToolTip": "igraJurke\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAiwFkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T18:56:38.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\OOP2-VEZBANJE\\igraJurke\\igraJurke\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "igraJurke\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\OOP2-VEZBANJE\\igraJurke\\igraJurke\\MainWindow.xaml",
+              "RelativeToolTip": "igraJurke\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-10T18:56:38.826Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
