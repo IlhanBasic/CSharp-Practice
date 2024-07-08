@@ -1,0 +1,60 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\igrica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAF803E-AEAB-46AD-B9AD-9A3A43898ED8}|igrica\\igrica.csproj|c:\\users\\pc\\source\\repos\\igrica\\igrica\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBAF803E-AEAB-46AD-B9AD-9A3A43898ED8}|igrica\\igrica.csproj|solutionrelative:igrica\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBAF803E-AEAB-46AD-B9AD-9A3A43898ED8}|igrica\\igrica.csproj|C:\\Users\\PC\\source\\repos\\igrica\\igrica\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EBAF803E-AEAB-46AD-B9AD-9A3A43898ED8}|igrica\\igrica.csproj|solutionrelative:igrica\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\igrica\\igrica\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "igrica\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\igrica\\igrica\\MainWindow.xaml.cs",
+              "RelativeToolTip": "igrica\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAAEwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T20:20:55.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\igrica\\igrica\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "igrica\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\igrica\\igrica\\MainWindow.xaml",
+              "RelativeToolTip": "igrica\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-29T20:20:56.406Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
