@@ -1,0 +1,6 @@
+Karavan, Bis-Taksi, 120, ZAUZET
+Limuzina, Speed-Taksi, 130, SLOBODAN
+Limuzina, City-Taksi, 150, SLOBODAN
+Najvecu potencijalnu zaradu ostvarice: Limuzina, Speed-Taksi, 130, SLOBODAN
+Ukupna zarada od zauzetih taksija: 21312.3
+Broj slobodnih taksija tipa karavan: 0

@@ -1,0 +1,3 @@
+Naziv:Bis-Taksi,Vrsta:Karavan,Cena:120,Zauzetost:+
+Naziv:Speed-Taksi,Vrsta:Limuzina,Cena:130,Zauzetost:-
+Naziv:City-Taksi,Vrsta:Limuzina,Cena:150,Zauzetost:-
