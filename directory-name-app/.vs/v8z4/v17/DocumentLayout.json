@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\directory-name-app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3D5076-C280-4252-BF1E-15F0F53D0BBF}|v8z4\\v8z4.csproj|C:\\Users\\PC\\source\\repos\\directory-name-app\\v8z4\\DB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF3D5076-C280-4252-BF1E-15F0F53D0BBF}|v8z4\\v8z4.csproj|solutionrelative:v8z4\\DB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3D5076-C280-4252-BF1E-15F0F53D0BBF}|v8z4\\v8z4.csproj|C:\\Users\\PC\\source\\repos\\directory-name-app\\v8z4\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF3D5076-C280-4252-BF1E-15F0F53D0BBF}|v8z4\\v8z4.csproj|solutionrelative:v8z4\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3D5076-C280-4252-BF1E-15F0F53D0BBF}|v8z4\\v8z4.csproj|c:\\users\\pc\\source\\repos\\directory-name-app\\v8z4\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AF3D5076-C280-4252-BF1E-15F0F53D0BBF}|v8z4\\v8z4.csproj|solutionrelative:v8z4\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3D5076-C280-4252-BF1E-15F0F53D0BBF}|v8z4\\v8z4.csproj|C:\\Users\\PC\\source\\repos\\directory-name-app\\v8z4\\Person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF3D5076-C280-4252-BF1E-15F0F53D0BBF}|v8z4\\v8z4.csproj|solutionrelative:v8z4\\Person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DB.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\directory-name-app\\v8z4\\DB.cs",
+              "RelativeDocumentMoniker": "v8z4\\DB.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\directory-name-app\\v8z4\\DB.cs",
+              "RelativeToolTip": "v8z4\\DB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAACEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T15:56:05.344Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\directory-name-app\\v8z4\\Person.cs",
+              "RelativeDocumentMoniker": "v8z4\\Person.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\directory-name-app\\v8z4\\Person.cs",
+              "RelativeToolTip": "v8z4\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T16:52:51.678Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\directory-name-app\\v8z4\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "v8z4\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\directory-name-app\\v8z4\\MainWindow.xaml.cs",
+              "RelativeToolTip": "v8z4\\MainWindow.xaml.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAACEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T15:55:50.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\directory-name-app\\v8z4\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "v8z4\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\directory-name-app\\v8z4\\MainWindow.xaml",
+              "RelativeToolTip": "v8z4\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-09T15:55:50.845Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
