@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Parking_servisModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Cenovnik">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" />
+    <Property Name="CenaSat" Type="Double" Nullable="false" />
+    <Property Name="CenaDan" Type="Double" Nullable="false" />
+    <Property Name="BrMesta" Type="Double" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Parking">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" />
+    <Property Name="RegBroj" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Vreme" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="idVlasnik" Type="Int32" />
+    <NavigationProperty Name="Vlasnik" Relationship="Self.FK__Parking__idVlasn__3B75D760" FromRole="Parking" ToRole="Vlasnik" />
+  </EntityType>
+  <EntityType Name="Vlasnik">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" />
+    <Property Name="Ime" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Prezime" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Parkings" Relationship="Self.FK__Parking__idVlasn__3B75D760" FromRole="Vlasnik" ToRole="Parking" />
+  </EntityType>
+  <Association Name="FK__Parking__idVlasn__3B75D760">
+    <End Role="Vlasnik" Type="Self.Vlasnik" Multiplicity="0..1" />
+    <End Role="Parking" Type="Self.Parking" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Vlasnik">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Parking">
+        <PropertyRef Name="idVlasnik" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Parking_servisEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Cenovniks" EntityType="Self.Cenovnik" />
+    <EntitySet Name="Parkings" EntityType="Self.Parking" />
+    <EntitySet Name="Vlasniks" EntityType="Self.Vlasnik" />
+    <AssociationSet Name="FK__Parking__idVlasn__3B75D760" Association="Self.FK__Parking__idVlasn__3B75D760">
+      <End Role="Vlasnik" EntitySet="Vlasniks" />
+      <End Role="Parking" EntitySet="Parkings" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

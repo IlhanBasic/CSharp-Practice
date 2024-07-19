@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Database1Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Cenovnik">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="CeneDan" Type="float" Nullable="false" />
+    <Property Name="CeneSat" Type="float" Nullable="false" />
+    <Property Name="BrMesta" Type="int" Nullable="false" />
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+  </EntityType>
+  <EntityType Name="parking">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="RegBroj" Type="nvarchar" MaxLength="8" Nullable="false" />
+    <Property Name="Vreme" Type="datetime" Nullable="false" />
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="IdVlasnika" Type="int" />
+  </EntityType>
+  <EntityType Name="Vlasnik">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Ime" Type="varchar" MaxLength="15" Nullable="false" />
+    <Property Name="Prezime" Type="varchar" MaxLength="20" Nullable="false" />
+  </EntityType>
+  <Association Name="FK__parking__IdVlasn__276EDEB3">
+    <End Role="Vlasnik" Type="Self.Vlasnik" Multiplicity="0..1" />
+    <End Role="parking" Type="Self.parking" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Vlasnik">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="parking">
+        <PropertyRef Name="IdVlasnika" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Database1ModelStoreContainer">
+    <EntitySet Name="Cenovnik" EntityType="Self.Cenovnik" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="parking" EntityType="Self.parking" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Vlasnik" EntityType="Self.Vlasnik" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__parking__IdVlasn__276EDEB3" Association="Self.FK__parking__IdVlasn__276EDEB3">
+      <End Role="Vlasnik" EntitySet="Vlasnik" />
+      <End Role="parking" EntitySet="parking" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

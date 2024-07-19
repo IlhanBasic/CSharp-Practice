@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Parking_servisModelStoreContainer" CdmEntityContainer="Parking_servisEntities">
+    <EntitySetMapping Name="Cenovniks">
+      <EntityTypeMapping TypeName="Parking_servisModel.Cenovnik">
+        <MappingFragment StoreEntitySet="Cenovnik">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="CenaSat" ColumnName="CenaSat" />
+          <ScalarProperty Name="CenaDan" ColumnName="CenaDan" />
+          <ScalarProperty Name="BrMesta" ColumnName="BrMesta" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Parkings">
+      <EntityTypeMapping TypeName="Parking_servisModel.Parking">
+        <MappingFragment StoreEntitySet="Parking">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="RegBroj" ColumnName="RegBroj" />
+          <ScalarProperty Name="Vreme" ColumnName="Vreme" />
+          <ScalarProperty Name="idVlasnik" ColumnName="idVlasnik" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Vlasniks">
+      <EntityTypeMapping TypeName="Parking_servisModel.Vlasnik">
+        <MappingFragment StoreEntitySet="Vlasnik">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Ime" ColumnName="Ime" />
+          <ScalarProperty Name="Prezime" ColumnName="Prezime" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

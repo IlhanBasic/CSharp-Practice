@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\OOP2-VEZBANJE\\benzinskaStanica\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DB2AC342-6C1A-4399-A121-8BC7D41E18B1}|benzinskaStanica\\benzinskaStanica.csproj|c:\\users\\pc\\desktop\\oop2-vezbanje\\benzinskastanica\\benzinskastanica\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB2AC342-6C1A-4399-A121-8BC7D41E18B1}|benzinskaStanica\\benzinskaStanica.csproj|solutionrelative:benzinskastanica\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Desktop\\OOP2-VEZBANJE\\benzinskaStanica\\benzinskaStanica\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:benzinskaStanica\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB2AC342-6C1A-4399-A121-8BC7D41E18B1}|benzinskaStanica\\benzinskaStanica.csproj|C:\\Users\\PC\\Desktop\\OOP2-VEZBANJE\\benzinskaStanica\\benzinskaStanica\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{DB2AC342-6C1A-4399-A121-8BC7D41E18B1}|benzinskaStanica\\benzinskaStanica.csproj|solutionrelative:benzinskaStanica\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Desktop\\OOP2-VEZBANJE\\benzinskaStanica\\benzinskaStanica\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:benzinskaStanica\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,15 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Document",
@@ -38,8 +34,7 @@
               "RelativeToolTip": "benzinskaStanica\\MainWindow.xaml.cs",
               "ViewState": "AQIAAHwAAAAAAAAAAAAYwJcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T12:53:43.456Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T12:53:43.456Z"
             },
             {
               "$type": "Document",
@@ -50,8 +45,11 @@
               "ToolTip": "C:\\Users\\PC\\Desktop\\OOP2-VEZBANJE\\benzinskaStanica\\benzinskaStanica\\MainWindow.xaml",
               "RelativeToolTip": "benzinskaStanica\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-12T12:53:44.204Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T12:53:44.204Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }
